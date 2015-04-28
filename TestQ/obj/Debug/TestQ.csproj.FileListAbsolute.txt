@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\kurs\TestQ\bin\Debug\TestQ.dll
+C:\Users\HP\Desktop\kurs\TestQ\bin\Debug\TestQ.pdb
+C:\Users\HP\Desktop\kurs\TestQ\bin\Debug\kurs.exe
+C:\Users\HP\Desktop\kurs\TestQ\bin\Debug\kurs.pdb
+C:\Users\HP\Desktop\kurs\TestQ\obj\Debug\TestQ.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\kurs\TestQ\obj\Debug\TestQ.dll
+C:\Users\HP\Desktop\kurs\TestQ\obj\Debug\TestQ.pdb
