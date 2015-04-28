@@ -2,3 +2,4 @@
 *.exe
 *.manifest
 *.config
+*.pdb
